@@ -19,4 +19,12 @@ The Key American Coca-Cola Retailers want to create an annual sales report for B
 - Which month observed the overall lowest sales?    
 - Which product (Beverage Brand) sold the most?  Which product sold the least? 
 
-- Interactive Dashboard <a href="https://github.com/NazimUddin17/Excel_Sales_Data_Analysis_Project/blob/main/Excel%20Sales%20Data%20Analysis%20Project.xlsx">View Dashboard</a>   
+- Interactive Dashboard <a href="https://github.com/NazimUddin17/Excel_Sales_Data_Analysis_Project/blob/main/Excel%20Sales%20Data%20Analysis%20Project.xlsx">View Dashboard</a>
+
+## Process
+- Check data for any missing values, duplicate values, outliers and anomalies, and sort out the same.
+- Make sure data is consistent and clean with respect to data types, data format and values used. 
+- Create pivot tables according to the questions asked.    
+- Merge all pivot tables into one dashboard and apply slicers to make the dashboard dynamic.
+
+
