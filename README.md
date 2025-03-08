@@ -38,4 +38,6 @@ The Key American Coca-Cola Retailers want to create an annual sales report for B
 - The profit made by Coco-Cola contributed one-fourth (25%) to the overall total profit while Dasani Water is in the 2nd place (21%).  
 - Out of the five regions, the region “West” earned the highest revenue, and the maximum profit in the year 2021.
 
+## Conclusion
+To improve the overall sales of the Key American Coca-Cola Retailers, a strategic marketing plan focused on the top selling Beverage Brands “Coco-Cola” and “Dasani Water” should be implemented. Also, a more efficient marketing campaign focused on the key consumer segment the “West” need to be implemented. 
 
