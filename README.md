@@ -27,7 +27,7 @@ The dataset containes a total of 3888 records.
 - Make sure data is consistent and clean with respect to data types, data format and values used. 
 - Create pivot tables according to the questions asked.    
 - Merge all pivot tables into one dashboard and apply slicers to make the dashboard dynamic.
-- 
+ 
 ## Dashboard
 
 ![Excel_Sales_Data_Analysis_Dashboard  Screenshot](https://github.com/user-attachments/assets/333ea6e9-0030-48d5-bd41-d114aac1000b)
