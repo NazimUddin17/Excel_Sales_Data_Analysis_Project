@@ -31,5 +31,11 @@ The Key American Coca-Cola Retailers want to create an annual sales report for B
 
 ![Excel_Sales_Data_Analysis_Dashboard  Screenshot](https://github.com/user-attachments/assets/333ea6e9-0030-48d5-bd41-d114aac1000b)
 
+## Project Insight
+- The overall sales gradually increases from January to July. After that, it declines till October, and then again it gradually increases where the sales in December outweigh the sales in July. 
+- In December, the overall sales was highest ($1,045,775.00), and the overall sales was in the second highest position ($1,041,437.50) in July while the sales was the lowest ($483,530.00) in March.
+- The revenue made by Coco-Cola contributed nearly one-fourth (23%) to the overall total sales, and individually it is the highest revenue earning product while Dasani Water is in the 2nd position (20%). 
+- The profit made by Coco-Cola contributed one-fourth (25%) to the overall total profit while Dasani Water is in the 2nd place (21%).  
+- Out of the five regions, the region “West” earned the highest revenue, and the maximum profit in the year 2021.
 
 
