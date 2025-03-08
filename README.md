@@ -17,4 +17,6 @@ The Key American Coca-Cola Retailers want to create an annual sales report for B
 - Which product (Beverage Brand) contributed the least to the overall profit?
 - Which month got the overall highest sales, and which month got the second highest sales?
 - Which month observed the overall lowest sales?    
-- Which product (Beverage Brand) sold the most?  Which product sold the least?
+- Which product (Beverage Brand) sold the most?  Which product sold the least? 
+
+- Dashboard Interaction <a href="https://github.com/NazimUddin17/Excel_Sales_Data_Analysis_Project/blob/main/Excel%20Sales%20Data%20Analysis%20Project.xlsx">View Dashboard</a>   
