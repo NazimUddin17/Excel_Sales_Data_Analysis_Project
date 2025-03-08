@@ -4,3 +4,17 @@ The Key American Coca-Cola Retailers want to create an annual sales report for B
 
 ## Dataset Used
 - <a href="https://github.com/NazimUddin17/Excel_Sales_Data_Analysis_Project/blob/main/Sales_Data.xlsx">Sales_Data</a>  
+
+## Business Questions and KPIs
+- What is the overall total sales in the year 2021?
+- What is the total units sold?
+- What is the total operating profit?
+- What is the average operating profit?
+- Compare the sales of different Beverage Brands using pie chart.
+- Which product (Beverage Brand) contributed the most to the overall sales?
+- Compare the profits made by the different Beverage Brands using pie chart.
+- Which product (Beverage Brand) contributed the most to the overall profit?
+- Which product (Beverage Brand) contributed the least to the overall profit?
+- Which month got the overall highest sales, and which month got the second highest sales?
+- Which month observed the overall lowest sales?    
+- Which product (Beverage Brand) sold the most?  Which product sold the least?
